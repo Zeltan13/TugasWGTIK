@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1670560740 source:c:\kuliah tel u\c++\alternatif ii dan iii\alternatif ii dan iii.cpp
+	"alternatif II dan III.h"
+
+1670560734 c:\kuliah tel u\c++\alternatif ii dan iii\alternatif ii dan iii.h
+	<iostream>
+
+1670558395 source:c:\kuliah tel u\c++\alternatif ii dan iii\main.cpp
+	"alternatif II dan III.h"
+
