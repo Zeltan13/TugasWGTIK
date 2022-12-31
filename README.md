@@ -4,4 +4,4 @@
 2. Able to use python, golang, C++, R, HTML, CSS
 3. Teamwork
 4. Communication
-5. Time Management
+5. Time Managements
