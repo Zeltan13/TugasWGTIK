@@ -5,4 +5,4 @@
 3. Teamwork
 4. Communication
 5. Time Management
-6. Disiplinarian
+6. Disciplinarian 
